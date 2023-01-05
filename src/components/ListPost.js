@@ -4,7 +4,6 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { useNavigate,useParams } from 'react-router-dom';
-import MaterialTable from "material-table";
 import { useTable } from 'react-table'
 
 export default function ListPost(){
