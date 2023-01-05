@@ -161,27 +161,6 @@ export default function ListPost(){
         <hr></hr>
 
 
-        {/* <MaterialTable
-              title="User data from remote source"
-              columns={columns}
-              data={posts}
-              
-              editable={{
-               
-                onRowDelete: (post) =>
-                  {
-                    handleDelete(post)
-                  },
-              }}
-            /> */}
-
-
-
-
-
-
-
-
         <table class="table table-bordered table-striped" >
                 <thead>
                     <tr>
